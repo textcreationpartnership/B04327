@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The May-poles motto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04327</idno>
+            <idno type="STC">Wing M1419B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[139]</idno>
+            <idno type="EEBO-CITATION">99884999</idno>
+            <idno type="PROQUEST">ocm99884999</idno>
+            <idno type="VID">182808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182808)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[140])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The May-poles motto.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>With a poem: The May-poles speech to a traveller; verse: "O Passenger knowst thou not me? ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>May-pole --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182808:1" rendition="simple:additions"/>
+            <head>The May-poles Motto.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S concerning the firſt Inſtitution of <hi>May-poles,</hi> many are very ignorant, that moſt greedily have taken pleaſure in reviving an old popiſh Cuſtome (was well nigh conſumed in this Nation) as by their folly is made manifeſt, in erecting it again, and Idolizing and ſporting them<g ref="char:EOLhyphen"/>ſelves in the day time, with drumming, drinking, and dancing about them, by curſing, ſwearing, and blaſpheming Gods Name, and his Tabernacle with them that cannot run amongſt the baſer ſort to this exceſs of Ryot, to the vexing of the righteous ſouls of ſuch as behold their unlawful deeds, and curſed practiſes, which plainly doth demonſtrate, that the root and ground of this Tree (ſo idolized) is not good, by the fruit which is brought forth to the Planters thereof: Moreover it is credibly reported, that an old whore called <hi>Flora,</hi> ſomtimes inhabiting at <hi>Rome,</hi> who had at her door a long Pole with a Motto on it, for a ſigne to invite her lovers, and that ſhe having by the filthi<g ref="char:EOLhyphen"/>neſs of her fornication gained much money in her life-time, did at her death, as a Legacy, give vaſt ſums of money unto Maids or Vir<g ref="char:EOLhyphen"/>gins (ſo called) yeerly upon <hi>May</hi> day, to ſolemnize her Feaſt or Funeral by this ſignal teſtimony of a <hi>May-pole,</hi> which Prieſts and people adore in remembrance of the old whore, or Monument, to preſerve her memorial, which hath been practiſed in an ignorant zeal and lewd<g ref="char:EOLhyphen"/>neſs, by them who are the off-ſpring of that Mother of Harlots, mentioned <hi>Rev.</hi> 17. and that be under the Prince of the Ayr's dominion. Now if any of the abettors or promoters of this memorial of this Strumpet and old whore, or any others, that ignorantly have run to this exceſs of ryot, deſire to be ſa<g ref="char:EOLhyphen"/>tisfied farther herein, concerning this old abominable branch and whore, which this yeer (as in a night) hath ſuddenly ſprung up to a very tall ſtature, in many Cities, Towns, and Villages in this Nation, where they do it in remembrance of her their old Love: Let them ſearch the Hiſtories, or enquire of ſuch as have recourſe there<g ref="char:EOLhyphen"/>unto, that they might underſtand, and be able to give a reaſon of ſuch their practiſes in this particular; for it concerns them chiefly to know the ground, and make proof thereof to ſuch as are unſatisfied, and not us: Nevertheleſs we cannot but bear our teſtimony againſt it, and we have alſo here tranſcribed ſomthing formerly compo<g ref="char:EOLhyphen"/>ſed concerning its Birth, Pedigree, State, Power, and Authority; whether by a friend unto, or a witneſs againſt, we leave the Reader to judge here as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <head>The <hi>May-poles</hi> Speech to a Traveller.</head>
+                        <l>O Paſſenger knowſt thou not me?</l>
+                        <l>Where's thy Cap? and where's thy Knee?</l>
+                        <l>Thy betters do me honour give,</l>
+                        <l>And ſwear they'l do it whilſt they live;</l>
+                        <l>Both High and low they me reſpect,</l>
+                        <l>I can command them at my beck:</l>
+                        <l>I think thou art ſome Puritan,</l>
+                        <l>Or cenſuring Preciſian,</l>
+                        <l>That lov'ſt not May-poles, Mirth, and Playes;</l>
+                        <l>But cries, Alas! theſe wretched dayes;</l>
+                        <l>That ſtop your ears, and ſhut your eyes,</l>
+                        <l>Leſt ye behold our vanities.</l>
+                        <l>But goodman Gooſcap, do thou know</l>
+                        <l>I do diſdain your holy ſhow,</l>
+                        <l>Your peeviſh humour I do ſcorn,</l>
+                        <l>And hold you wretches all forlorn;</l>
+                        <l>Your cenſurings all I do ſhake off,</l>
+                        <l>And at your zeal I freely ſcoff:</l>
+                        <l>I will ſtand here in ſpight of ſuch,</l>
+                        <l>And glad to hear that they do grutch.</l>
+                        <l>But prithee fellow learn of me</l>
+                        <l>My Birth, my Worth, my Pedigree,</l>
+                        <l>My Name, my Fame, my Power, my Praiſe,</l>
+                        <l>My State, my Acts, my honoured Dayes.</l>
+                        <l>I am Sir <hi>May-pole,</hi> that's my name,</l>
+                        <l>
+                           <hi>Mer, May,</hi> and <hi>Mirth</hi> gave me the ſame:</l>
+                        <l>Dame <hi>Flora,</hi> once <hi>Romes</hi> famous Whore,</l>
+                        <l>Did give to <hi>Rome</hi> in dayes of yore</l>
+                        <l>(By her laſt Will) great Legacies</l>
+                        <l>My yearly Feaſt to ſolemnize</l>
+                        <l>With jovial ſports and pleaſantneſs,</l>
+                        <l>In luſt-procuring wantonneſs;</l>
+                        <l>And ſurely I am neer of kin</l>
+                        <l>Unto that Romiſh Man of ſin;</l>
+                        <l>And ſcarce under the heavens ſcope</l>
+                        <l>There's none (as I) ſo like the Pope.</l>
+                        <l>Hath holy Father much ado</l>
+                        <l>When he is choſe? So have I too;</l>
+                        <l>There is ſuch joy at my plantation</l>
+                        <l>As is at his Coronation:</l>
+                        <l>Men, women, children on a heap</l>
+                        <l>Do ſing, and dance, yea skip, and leap;</l>
+                        <l>Yea Drum, and Drunkards on a Rout,</l>
+                        <l>Before me make a hideous ſhout;</l>
+                        <l>Whoſe loud Alarms, and bellowing cries</l>
+                        <l>Do fright the earth, and pierce the skies.</l>
+                        <l>Doth he upon mens ſhoulders ride?</l>
+                        <l>That honour doth to me betide.</l>
+                        <l>Hath holy Pope his noble Guard?</l>
+                        <l>So have I too, that watch and ward:</l>
+                        <l>For where 'tis noiſed I am come,</l>
+                        <l>My followers ſummon'd are by Drum;</l>
+                        <l>I have a mighty retinue,</l>
+                        <l>The ſcum of all the Raſcal crew</l>
+                        <l>Of Fidlers, Pedlers, Jayl-ſcape ſlaves,</l>
+                        <l>Of Tinkers, Turncoats, Toſspot knaves,</l>
+                        <l>With Thieves, and Scapethrifts many a one,</l>
+                        <l>With bouncing <hi>Beſs,</hi> and jolly <hi>Joan;</hi>
+                        </l>
+                        <l>The Hobby-horſe doth hither prance,</l>
+                        <l>Maid <hi>Mariam,</hi> and the Morris dance.</l>
+                        <l>The Pope doth keep his Jubilee,</l>
+                        <l>A time of mirth and jollity;</l>
+                        <l>And on ſuch as to <hi>Rome</hi> will go,</l>
+                        <l>Great benefits he will beſtow.</l>
+                        <l>I alſo keep my Jubilee,</l>
+                        <l>A time of yeerly jollity;</l>
+                        <l>And unto ſuch as it frequent,</l>
+                        <l>I mirth procure, and much content:</l>
+                        <l>Firſt Muſick doth their paſſions charm,</l>
+                        <l>Then Liquor ſtrong their luſt doth warm;</l>
+                        <l>Their dancing geſture, looks, and words,</l>
+                        <l>More fewel to the fire affords:</l>
+                        <l>The old, that have ſcarce tooth, or eye,</l>
+                        <l>But crooked back, and lamed thigh,</l>
+                        <l>Muſt have a frisk, and ſhake the heel,</l>
+                        <l>As if not ſtitch, nor ache they feel;</l>
+                        <l>And ſith their works do hate the <hi>Light,</hi>
+                        </l>
+                        <l>They take the vantage of the night.</l>
+                        <l>But leſt you think my ſtately port</l>
+                        <l>Maintained is by baſer ſort,</l>
+                        <l>I have ſome elſe of better note,</l>
+                        <l>That jet it in a ſilken coat:</l>
+                        <l>I cannot boaſt much of their grace,</l>
+                        <l>But this I ſay, they're men of place;</l>
+                        <l>Whoſe Country Worſhips have great praiſe</l>
+                        <l>In Maypolizing now adays:</l>
+                        <l>Though cold they are in better things,</l>
+                        <l>In this they Reigne as Pariſh kings:</l>
+                        <l>They are as light as feather in cap,</l>
+                        <l>They nothing fear the fatal hap;</l>
+                        <l>Beſides, there are ſome learned men,</l>
+                        <l>Perhaps Divines, how ſay you then,</l>
+                        <l>Diſputed have of me in Schools,</l>
+                        <l>I hope theſe are no ſimple fools;</l>
+                        <l>They ſtifly do maintain my cauſe</l>
+                        <l>To be according to God's Laws;</l>
+                        <l>They make it good, were't not for me</l>
+                        <l>All love would periſh ſpeedily.</l>
+                        <l>The Pope doth challenge power divine,</l>
+                        <l>I (next to him) do ſay its mine;</l>
+                        <l>I can enlarge mens Conſcience,</l>
+                        <l>And qualifie each vile offence:</l>
+                        <l>I take away all fear of evil,</l>
+                        <l>Of ſin, of death, of hell and divel;</l>
+                        <l>I tell them its a time to laugh,</l>
+                        <l>To give themſelves free leave to quaffe,</l>
+                        <l>To drink their health upon their knee,</l>
+                        <l>And mix therewith much Ribaldry,</l>
+                        <l>To reel, to ſpew, to brawl, to fight,</l>
+                        <l>To ſcoff and rail with all their might;</l>
+                        <l>I teach the ſervant diſobey,</l>
+                        <l>The childe to ſay his Parent nay;</l>
+                        <l>The poorer ſort that have no coyn,</l>
+                        <l>I can command them to purloyn;</l>
+                        <l>All this, and more, I warrant good,</l>
+                        <l>For this maintaineth Neighbourhood:</l>
+                        <l>Yea, when my Rogues do Vict'als want,</l>
+                        <l>When money, cloth, and all grows ſcant,</l>
+                        <l>Then forth a forraging they go,</l>
+                        <l>And fall upon their common foe;</l>
+                        <l>No pillage ſeemeth half ſo good,</l>
+                        <l>As what's ſtolen from the Brotherhood.</l>
+                        <l>O Trav'ler, learn more grace to ſhow,</l>
+                        <l>And ſee that thou thy Betters know;</l>
+                        <l>And ſith thou muſt part me fro,</l>
+                        <l>Then let my leſſon with thee go:</l>
+                        <l>There's ne're a Drunkard in all the Town,</l>
+                        <l>Nor ſwearing Courtier, nor baſe Clown,</l>
+                        <l>Nor ſwaggering Lobcock, mincing Quean,</l>
+                        <l>Nor Popiſh Clerk, nor Prieſt, nor Dean,</l>
+                        <l>Nor Knight deboiſt, nor Gentleman</l>
+                        <l>That follows Drabs, or Cup, or Kan,</l>
+                        <l>That will give thee a friendly look,</l>
+                        <l>If thou canſt not a <hi>May-pole</hi> brook.</l>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Prieſts and their hearers may ſay, that they ſet it up in honour of their old Love, if we gather money to do the ſame, for the old Whore had one at her door, who gave a great Legacy that they might ſet it up again in honour of the old Strumpet.</p>
+            <p>Now theſe things are written chiefly to the <hi>May-pole</hi> Planters, and the reſt of their rude ranting fooliſh followers, for them to read and conſider; and if the Verſes were at firſt compoſed by one of their own Poets, or Prophets, his teſtimony may be very true; though he ſpake lightly in many things, as if he did but make a mock at ſin, yet his rude ſpeech renders him not altogether ſo much a fool, as their practiſes do beſpeak them, who are of this ſinful ſociety, and who take pleaſure in ſuch folly and vanity; for theſe practiſes are an ill ſavour amongſt all ſober minded men, and this old ſin new revived, and ſo frequently committed in our Cities and Towns, is a very great reproach to a Chriſtian Nation, and by the Lord's Prophets and Saints it is verily believed, that the Lord will viſit for theſe things, and that he will avenge himſelf of ſuch great abominations as are committed in the Land, both in this, and in ſeveral other things of the like nature, which is a vexation to the ſpirits of juſt men, and hereby teſtified againſt by ſuch as truly fear the Lord, and tremble at the word of his Holineſs, although in thoſe dayes by that generation, are reproached by the name of Phanatiques.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
